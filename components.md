@@ -5,11 +5,7 @@ title: Components
 
 <link rel="stylesheet" href="/heist/assets/style.css">
 
-<div class="ttrpg-container">
-
 # Components
-
-<div class="ttrpg-box">
 
 ## Each Player Needs
 
@@ -24,7 +20,3 @@ title: Components
 
 - **Central Vault**: Pile of loot tokens
 - **Action Card Deck**: See [Action Cards](action-cards.html)
-
-</div>
-
-</div>
