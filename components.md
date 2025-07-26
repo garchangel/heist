@@ -3,7 +3,7 @@ layout: default
 title: Components
 ---
 
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="assets/style.css">
 
 <div class="ttrpg-container">
 
