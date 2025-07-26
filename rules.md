@@ -5,11 +5,7 @@ title: Rules
 
 <link rel="stylesheet" href="/heist/assets/style.css">
 
-<div class="ttrpg-container">
-
 # Rules
-
-<div class="ttrpg-box">
 
 ## Overview
 
@@ -40,7 +36,3 @@ Be the **first to collect 7 loot** and declare victory, or have the most loot wh
 - If the vault runs out, all reveal and the highest loot wins.
 
 See [Action Cards](action-cards.html) for full card details.
-
-</div>
-
-</div>
