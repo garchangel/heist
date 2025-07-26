@@ -13,7 +13,7 @@ title: Action Cards
 
 | # | Card Name     | Description                                                                                     |
 |---|--------------|-------------------------------------------------------------------------------------------------|
-| 1 | **Guard**    | Protect your vault. Anyone who tries to Pickpocket you fails and loses 1 loot to vault.         |
+| 1 | **Guard**    | Protect your vault. Anyone who tries to Pickpocket you fails and loses 1 loot to the vault.         |
 | 2 | **Steal**    | Attempt to take 1 loot from the central vault (secretly add to your tin).                       |
 | 3 | **Pickpocket** | Attempt to take 1 loot from another player (choose after reveal). If they played Guard/Bluff, you fail. |
 | 4 | **Swap**     | Privately exchange 1 loot with another player.                                                  |
