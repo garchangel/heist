@@ -19,7 +19,7 @@ Welcome to **Heist!** Gather your friends, grab your mint tin, and outwit your r
   - [Rules](rules.html)  
   - [Components List](components.html)  
   - [Action Cards](action-cards.html)  
-  - <a href="https://github.com/YOUR_GITHUB_USERNAME/mint-heist">GitHub Repo</a>
+  - <a href="https://github.com/garchangel/heist">GitHub Repo</a>
 </div>
 
 </div>
