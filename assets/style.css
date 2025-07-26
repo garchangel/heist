@@ -1,0 +1,54 @@
+body {
+  background: #f6ecd3 url('https://www.transparenttextures.com/patterns/old-mathematics.png');
+  color: #222;
+  font-family: 'Courier New', Courier, 'Andale Mono', monospace;
+  margin: 0;
+  padding: 0;
+}
+.ttrpg-container {
+  max-width: 720px;
+  margin: 2em auto;
+  padding: 1em 2em;
+  background: rgba(255,255,240,0.96);
+  border-radius: 10px;
+  box-shadow: 0 2px 24px #ae9b74;
+}
+.ttrpg-box {
+  border: 2px solid #ae9b74;
+  background: rgba(255,255,240,0.95);
+  border-radius: 8px;
+  padding: 1.1em 1.5em;
+  margin: 1.5em 0;
+  box-shadow: 0 0 10px #f0e2bb50;
+}
+a {
+  color: #90703a;
+  text-decoration: underline;
+}
+a:hover {
+  color: #cfa95a;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5em;
+  font-size: 1em;
+}
+th, td {
+  border: 1px solid #ae9b74;
+  padding: 0.4em 0.6em;
+  text-align: left;
+  background: rgba(255,255,240,0.88);
+}
+th {
+  background: #e6d2a4;
+  color: #493200;
+}
+@media (max-width: 600px) {
+  .ttrpg-container {
+    padding: 0.5em 0.2em;
+  }
+  .ttrpg-box {
+    padding: 0.7em 0.5em;
+  }
+}  
