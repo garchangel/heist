@@ -16,7 +16,7 @@ Welcome to **Heist!** Gather your friends, grab your mint tin, and outwit your r
   <strong>Quick Start:</strong>
   <ul>
     <li><a href="rules">Rules</a></li>
-    <li><a href="componentsl">Components List</a></li>
+    <li><a href="components">Components List</a></li>
     <li><a href="action-cards">Action Cards</a></li>
     <li><a href="https://github.com/YOUR_GITHUB_USERNAME/heist">GitHub Repo</a></li>
   </ul>
