@@ -9,18 +9,18 @@ title: Action Cards
 
 Below are all the action cards and what they do:
 
-| #  | Card Name       | Description                                                                                          |
-|----|----------------|------------------------------------------------------------------------------------------------------|
-| 1  | **Guard**      | Protect your vault. Anyone who tries to Pickpocket you fails and loses 1 loot to the vault.          |
-| 2  | **Steal**      | Attempt to take 1 loot from the central vault (secretly add to your tin).                           |
-| 3  | **Pickpocket** | Attempt to take 1 loot from another player (choose after reveal). If they played Guard/Bluff, you fail. |
-| 4  | **Swap**       | Privately exchange 1 loot with another player.                                                       |
-| 5  | **Peek**       | Look at another player's loot count (they show you inside their tin).                                |
-| 6  | **Double Steal** | Try to take 2 loot from vault. If you fail, lose 1 loot to the vault.                              |
-| 7  | **Heist**      | If exactly two players play Heist, both take 1 loot from vault. Otherwise, fail.                     |
-| 8  | **Bluff**      | Do nothing. If someone tries to Pickpocket you, they automatically fail.                             |
-| 9  | **Frame**      | Choose a player. If they Steal this round, they must return 1 loot to the vault.                     |
-| 10 | **Trade**      | Offer a private trade: invite one player to exchange loot with you in secret.                        |
-| 11 | **Hide**       | Skip your turn; you cannot be targeted this round.                                                   |
-| 12 | **Boast**      | Secretly announce to one player how many loot you claim to have. If they call bluff and you're lying, lose 1 loot; if true, they lose 1 loot. |
-| 13 | **Reveal**     | Force all players to show everyone their loot count.                                                 |
+| #   | Card Name      | Effect |
+|-----|---------------|--------|
+| 1   | **Guard**      | Protect your vault this round. Any attempt to steal from you fails. If targeted, the attacker loses 1 loot to the vault. |
+| 2   | **Steal**      | Take 1 loot from the central vault (if available). |
+| 3   | **Pickpocket** | Attempt to take 1 loot from a player of your choice. Blocked by Guard or Hide. |
+| 4   | **Hide**       | You cannot be targeted this round (by Pickpocket, Swap, Frame, etc). |
+| 5   | **Swap**       | Choose another player. Demand either 1 crew or 1 loot from them, and give them either 1 crew or 1 loot in exchange (your choice for both). Blocked by Hide or Guard. If either side lacks the needed resource, the exchange is canceled and the action has no effect (but is not a failure unless blocked). |
+| 6   | **Peek**       | Privately look at another player’s loot count. |
+| 7   | **Heist**      | Attempt the big score! If you are the only player to play Heist, take 2 loot from the central vault (if available). If two or more players play Heist, all Heist players lose 1 loot (return it to the vault if possible) and 1 crew to the bin. If you cannot pay, lose as much as you can. If the vault is empty, your Heist fails and you lose 1 crew to the bin. |
+| 8   | **Frame**      | Name a player. If they attempted to Steal or Pickpocket this round, they lose 1 loot to the vault. |
+| 9   | **Inside Job** | Choose another player. You and that player each roll a die. The higher roll takes 1 loot from the central vault (if available). If tied, neither player gets any loot. If the vault is empty, nothing happens. |
+| 10  | **Sabotage**   | Target a player. They lose 1 crew to the bin. (Cannot reduce below 1 crew.) |
+| 11  | **Boast**      | Publicly declare your loot count. Anyone may challenge. If you lied, lose 1 loot & 1 crew to bin; if true, challengers lose 1 loot each. |
+| 12  | **Recruit**    | Recover 1 crew from the bin to your supply. |
+| 13  | **Reveal**     | All players simultaneously reveal their current loot count. |
